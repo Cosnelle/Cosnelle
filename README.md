@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cosnelle
-- 🌱 I’m currently learning informatic and statistic
+- 🌱 I’m currently learning computer science and statistic
 - 📫 How to reach me: casnelle2018@gmail.com
 
 <!---
